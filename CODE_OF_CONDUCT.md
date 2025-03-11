@@ -18,7 +18,7 @@ Examples of unacceptable behavior include:
 - The use of inappropriate language or imagery.
 
 ## Enforcement
-Community leaders are responsible for clarifying and enforcing our standards. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us at **[your-email@example.com](mailto:your-email@example.com)**. 
+Community leaders are responsible for clarifying and enforcing our standards. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us at **[ganeshmanchi123@gmail.com](mailto:ganeshmanchi123@gmail.com)**. 
 
 ## Scope
 This Code of Conduct applies within project spaces and in public spaces when an individual represents the project.
