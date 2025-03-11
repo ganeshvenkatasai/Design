@@ -14,7 +14,7 @@ class TeamLead extends LeaveHandler{
     @Override
     void handleRequest(int days) {
         if (days < 3) {
-            System.out.println("Team Lead approved " + days + " days Leave");;
+            System.out.println("Team Lead approved " + days + " days Leave");
         } else {
             nextHandler.handleRequest(days);
         }
@@ -25,7 +25,7 @@ class Manager extends LeaveHandler{
     @Override
     void handleRequest(int days) {
         if (days < 8) {
-            System.out.println("Manager approved " + days + " days Leave");;
+            System.out.println("Manager approved " + days + " days Leave");
         } else {
             nextHandler.handleRequest(days);
         }
@@ -35,7 +35,7 @@ class Manager extends LeaveHandler{
 class CEO extends LeaveHandler{
     @Override
     void handleRequest(int days) {
-        System.out.println("CEO approved " + days + " days Leave");;
+        System.out.println("CEO approved " + days + " days Leave");
     }
 }
 
